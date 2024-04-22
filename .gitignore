@@ -1,3 +1,4 @@
 spot_venv
 .env
 .cache
+__pycache__
